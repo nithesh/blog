@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+      width="128" height="128">
+      <rect x="2" y="2" width="124" height="124" rx="20" ry="20" fill="#337ab7" />
+      <text x="10" y="80" font-family="Lucida Grande" font-size="100" fill="white" transform="scale(0.8 1.2)">nm</text>
+</svg>
